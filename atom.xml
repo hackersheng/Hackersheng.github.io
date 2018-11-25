@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hackersheng&#39;s Blog</title>
+  
+  <subtitle>欢迎来到我的世界！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-25T09:33:02.087Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Yanghaoxiang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C语言的细枝末节</title>
+    <link href="http://yoursite.com/2018/11/24/C%E8%AF%AD%E8%A8%80%E7%9A%84%E7%BB%86%E6%9E%9D%E6%9C%AB%E8%8A%82/"/>
+    <id>http://yoursite.com/2018/11/24/C语言的细枝末节/</id>
+    <published>2018-11-24T06:26:38.000Z</published>
+    <updated>2018-11-25T09:33:02.087Z</updated>
+    
+    <content type="html"><![CDATA[<p>想不明白为什么还这样</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;想不明白为什么还这样&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>对于怎么去学习的感想</title>
+    <link href="http://yoursite.com/2018/11/24/%E5%AF%B9%E4%BA%8E%E6%80%8E%E4%B9%88%E5%8E%BB%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%84%9F%E6%83%B3/"/>
+    <id>http://yoursite.com/2018/11/24/对于怎么去学习的感想/</id>
+    <published>2018-11-24T06:06:36.000Z</published>
+    <updated>2018-11-24T07:53:34.835Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一、明白为什么要学习"><a href="#一、明白为什么要学习" class="headerlink" title="一、明白为什么要学习"></a>一、明白为什么要学习</h1><p> 从小我们就开始不断学习，可是为什么我们知识面还是那么少</p><h1 id="二、该如何去学习"><a href="#二、该如何去学习" class="headerlink" title="二、该如何去学习"></a>二、该如何去学习</h1><p> 我们</p><h1 id="三、怎么去学的更好"><a href="#三、怎么去学的更好" class="headerlink" title="三、怎么去学的更好"></a>三、怎么去学的更好</h1><p> 好好的</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;一、明白为什么要学习&quot;&gt;&lt;a href=&quot;#一、明白为什么要学习&quot; class=&quot;headerlink&quot; title=&quot;一、明白为什么要学习&quot;&gt;&lt;/a&gt;一、明白为什么要学习&lt;/h1&gt;&lt;p&gt; 从小我们就开始不断学习，可是为什么我们知识面还是那么少&lt;/p&gt;
+&lt;h1 i
+      
+    
+    </summary>
+    
+      <category term="learner" scheme="http://yoursite.com/categories/learner/"/>
+    
+    
+      <category term="learner" scheme="http://yoursite.com/tags/learner/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你好，欢迎来到我的博客</title>
+    <link href="http://yoursite.com/2018/11/23/hello-world/"/>
+    <id>http://yoursite.com/2018/11/23/hello-world/</id>
+    <published>2018-11-23T05:17:43.941Z</published>
+    <updated>2018-11-24T06:03:54.612Z</updated>
+    
+    <content type="html"><![CDATA[<p>希望在这里能够分享自己知识与经验！<strong>同时也非常希望你能指出我的错误或者发表意见，共同提供你我</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;希望在这里能够分享自己知识与经验！&lt;strong&gt;同时也非常希望你能指出我的错误或者发表意见，共同提供你我&lt;/strong&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
