@@ -5,9 +5,9 @@
   <subtitle>欢迎来到我的世界！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-11-25T10:31:25.008Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://yanghaoxiang.top/"/>
+  <updated>2018-11-25T10:38:20.740Z</updated>
+  <id>http://yanghaoxiang.top/</id>
   
   <author>
     <name>Yanghaoxiang</name>
@@ -17,9 +17,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hexo添加版权产生的bug</title>
+    <link href="http://yanghaoxiang.top/2018/11/25/hexo%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E4%BA%A7%E7%94%9F%E7%9A%84bug/"/>
+    <id>http://yanghaoxiang.top/2018/11/25/hexo添加版权产生的bug/</id>
+    <published>2018-11-25T10:36:17.000Z</published>
+    <updated>2018-11-25T10:38:20.740Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>C语言的细枝末节</title>
-    <link href="http://yoursite.com/2018/11/24/C%E8%AF%AD%E8%A8%80%E7%9A%84%E7%BB%86%E6%9E%9D%E6%9C%AB%E8%8A%82/"/>
-    <id>http://yoursite.com/2018/11/24/C语言的细枝末节/</id>
+    <link href="http://yanghaoxiang.top/2018/11/24/C%E8%AF%AD%E8%A8%80%E7%9A%84%E7%BB%86%E6%9E%9D%E6%9C%AB%E8%8A%82/"/>
+    <id>http://yanghaoxiang.top/2018/11/24/C语言的细枝末节/</id>
     <published>2018-11-24T06:26:38.000Z</published>
     <updated>2018-11-25T10:31:25.008Z</updated>
     
@@ -36,14 +50,14 @@
     </summary>
     
     
-      <category term="c语言" scheme="http://yoursite.com/tags/c%E8%AF%AD%E8%A8%80/"/>
+      <category term="c语言" scheme="http://yanghaoxiang.top/tags/c%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
   <entry>
     <title>对于怎么去学习的感想</title>
-    <link href="http://yoursite.com/2018/11/24/%E5%AF%B9%E4%BA%8E%E6%80%8E%E4%B9%88%E5%8E%BB%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%84%9F%E6%83%B3/"/>
-    <id>http://yoursite.com/2018/11/24/对于怎么去学习的感想/</id>
+    <link href="http://yanghaoxiang.top/2018/11/24/%E5%AF%B9%E4%BA%8E%E6%80%8E%E4%B9%88%E5%8E%BB%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%84%9F%E6%83%B3/"/>
+    <id>http://yanghaoxiang.top/2018/11/24/对于怎么去学习的感想/</id>
     <published>2018-11-24T06:06:36.000Z</published>
     <updated>2018-11-25T10:31:25.448Z</updated>
     
@@ -59,17 +73,17 @@
     
     </summary>
     
-      <category term="learner" scheme="http://yoursite.com/categories/learner/"/>
+      <category term="learner" scheme="http://yanghaoxiang.top/categories/learner/"/>
     
     
-      <category term="learner" scheme="http://yoursite.com/tags/learner/"/>
+      <category term="learner" scheme="http://yanghaoxiang.top/tags/learner/"/>
     
   </entry>
   
   <entry>
     <title>你好，欢迎来到我的博客</title>
-    <link href="http://yoursite.com/2018/11/23/hello-world/"/>
-    <id>http://yoursite.com/2018/11/23/hello-world/</id>
+    <link href="http://yanghaoxiang.top/2018/11/23/hello-world/"/>
+    <id>http://yanghaoxiang.top/2018/11/23/hello-world/</id>
     <published>2018-11-23T05:17:43.941Z</published>
     <updated>2018-11-24T06:03:54.612Z</updated>
     
@@ -86,7 +100,7 @@
     </summary>
     
     
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://yanghaoxiang.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
