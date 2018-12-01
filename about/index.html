@@ -88,8 +88,6 @@
 
 
 
-  
-
 
   <link rel="alternate" href="/atom.xml" title="Hackersheng's Blog" type="application/atom+xml">
 
@@ -424,41 +422,32 @@
             
         </div>
 	  
-       <div>
-            
-              <div id="wechat_subscriber" style="display: block; padding: 10px 0; margin: 20px auto; width: 100%; text-align: center">
-    <img id="wechat_subscriber_qcode" src="" alt="Yanghaoxiang wechat" style="width: 200px; max-width: 100%;">
-    <div></div>
-</div>
-
-            
-      </div>
+    
   
 
     
       <div>
         <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
   <div>感谢你对我的支持 让我更努力分享技术和知识</div>
-  <button id="rewardButton" disable="enable" style="width: 80px;line-height: 38px;text-align: center;font-weight: bold;color: #fff;border-radius: 5px;
-margin:0 20px 20px 0;position: relative;overflow: hidden;color: #8c96a0;text-shadow:1px 1px 1px #fff;border:1px solid #dce1e6;box-shadow: 0 1px 2px #fff inset,0 -1px 0 #a8abae inset;background: -webkit-linear-gradient(top,#f2f3f7,#e4e8ec);background: -moz-linear-gradient(top,#f2f3f7,#e4e8ec);background: linear-gradient(top,#f2f3f7,#e4e8ec);" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
-    打赏
+  <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
+    <span>打赏</span>
   </button>
   <div id="QR" style="display: none;">
+
     
-      <div id="wechat" style="display: inline-block;width:150px;height:150px">
-        <img id="wechat_qr" src="/images/alipay.png" alt="Yanghaoxiang WeChat Pay">
-        <p>WeChat Pay</p>
+
+    
+      <div id="alipay" style="display: inline-block">
+        <img id="alipay_qr" src="/images/pay.png" alt="Yanghaoxiang 支付宝">
+        <p>支付宝</p>
       </div>
     
+
     
-      <div id="alipay" style="display: inline-block;width:150px;height:80px">
-        <img id="alipay_qr" src="/images/wechatpay.jpg" alt="Yanghaoxiang Alipay">
-        <p>Alipay</p>
-      </div>
-    
-    
+
   </div>
 </div>
+
       </div>
     
 
