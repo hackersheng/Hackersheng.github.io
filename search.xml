@@ -3,10 +3,15 @@
   <entry>
     <title><![CDATA[怎么解决solidworks、CAD、3dmax等软件卸载问题？]]></title>
     <url>%2F2018%2F12%2F10%2F%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3solidworks%E3%80%81CAD%E3%80%813dmax%E7%AD%89%E8%BD%AF%E4%BB%B6%E5%8D%B8%E8%BD%BD%E9%97%AE%E9%A2%98%EF%BC%9F%2F</url>
-    <content type="text"><![CDATA[一 二]]></content>
+    <content type="text"></content>
       <tags>
         <tag>电脑疑难杂症</tag>
       </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[无法打开注册表项 UNKNOWN Components]]></title>
+    <url>%2F2018%2F12%2F10%2F%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E6%B3%A8%E5%86%8C%E8%A1%A8%E9%A1%B9-UNKNOWN-Components%2F</url>
+    <content type="text"><![CDATA[无法打开注册表项 UNKNOWN\Components\在安装某些软件时候会出现：无法打开项 UNKNOWN\Components\................\。 请验证您是否具有足够的权限访问该项 这时就让人恼火了，那么该这么解决这个问题，如下： 一、使用命令行提示符 step1：以管理员身份打开运行对话窗 win10为例： ) step2：执行命令：secedit /configure /cfg %windir%\inf\defltbase.inf /db defltbase.sdb /verbose step3:等待运行结束 提示：如果出现下面这种现象，需要使用第二种方法 二、修改注册表权限 step1：打开运行窗口，输入regedit step2：找到键值：HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData step3：选择 **]]></content>
   </entry>
   <entry>
     <title><![CDATA[hexo添加版权产生的bug]]></title>
