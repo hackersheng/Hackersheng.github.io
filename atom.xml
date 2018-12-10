@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yanghaoxiang.top/"/>
-  <updated>2018-11-25T10:38:20.740Z</updated>
+  <updated>2018-12-10T03:30:22.625Z</updated>
   <id>http://yanghaoxiang.top/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yanghaoxiang.top/2018/12/10/%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3solidworks%E3%80%81CAD%E3%80%813dmax%E7%AD%89%E8%BD%AF%E4%BB%B6%E5%8D%B8%E8%BD%BD%E9%97%AE%E9%A2%98%EF%BC%9F/"/>
+    <id>http://yanghaoxiang.top/2018/12/10/怎么解决solidworks、CAD、3dmax等软件卸载问题？/</id>
+    <published>2018-12-10T08:09:18.943Z</published>
+    <updated>2018-12-10T03:30:22.625Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>hexo添加版权产生的bug</title>
