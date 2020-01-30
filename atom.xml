@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yanghaoxiang.top/"/>
-  <updated>2018-11-24T06:03:54.612Z</updated>
+  <updated>2020-01-30T09:39:58.973Z</updated>
   <id>http://yanghaoxiang.top/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yanghaoxiang.top/2020/01/30/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/"/>
+    <id>http://yanghaoxiang.top/2020/01/30/新建文本文档/</id>
+    <published>2020-01-30T09:39:34.621Z</published>
+    <updated>2020-01-30T09:39:58.973Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;你好&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>你好，欢迎来到我的博客</title>
