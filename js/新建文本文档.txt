@@ -1,0 +1,1 @@
+click_show_text.js：增加鼠标点击显示文字
